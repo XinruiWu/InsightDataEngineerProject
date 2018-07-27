@@ -1,2 +1,11 @@
-# InsightDataEngineerProject
-## Data Engineer Project done in Insight
+# Insight Data Engineer Project
+
+## Project Idea
+
+Match products with ideas, match ads with content.
+
+## Purpose & use cases
+
+## Technologies
+
+## Achitecture
